@@ -10,6 +10,12 @@
 <br>
 <br>
 
+### Besides holberton projects I've worked on small personal projects like the [todo_list-JS](https://github.com/Sainterman/todo_list-JS) a very simple and minimalistic TODO list, the [webpage-thumbnail-generator](https://github.com/Sainterman/webpage-thumbnail-generator) creates stmall thumbnails from screenshots using the [Screenshot API](https://screenshotapi.net); Golang is used to serve the frontend made with VueJs.
+
+<br>
+
+### One of the oldest repo is actually one of my favorite projects, [SpaceWars](https://github.com/Sainterman/spaceWars) which is a 2 player game for the windows cmd made in C++ where you drive a ship and have to destroy the other player, it's a bit old and I'm not sure it works today but the source code is there for anyone who wants to make a port.
+
 ## 💬 Ask me about data structures such as linked lists and hash tables, microservices and web infrastructure. 
 ### I may not be an expert but I enjoy talking about that and learning more.
 
