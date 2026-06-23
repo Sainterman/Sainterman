@@ -1,8 +1,6 @@
 # Hello there🧙‍♂️
 
 
-## 📫  sancastillog@gmail.com
-
 <br>
 <br>
 
