@@ -1,5 +1,5 @@
-# Hello there traveler 🧙‍♂️ Welcome to my GitHub!
-### I'm a backend developer, I like writing Ruby code but I'm open to other technologies like Go and Python.
+# Hello there🧙‍♂️
+
 
 ## 📫  sancastillog@gmail.com
 
