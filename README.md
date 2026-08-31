@@ -5,6 +5,6 @@
 
 ### You can use [ConsolidatedGDD](https://github.com/Sainterman/ConsolidatedGDD) to update your Game design document in case you have a bunch of docs in .md format through a web client, you can hook it up to your preffered model, feel free to tweak it out. 
 
-## I enjoy building tools around my game development pipeline. I'm making a Physics based ARPG as a solo dev in Unreal Engine 5.
+## I enjoy building tools around my game development pipeline. Currently making a Physics based ARPG
 
 contact: sancastillog@gmail.com
