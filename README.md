@@ -1,4 +1,4 @@
-wwwwwwwwwwwwww# Hello there🧙‍♂️ 
+# Hello there🧙‍♂️ 
 
 ## In this github
 ### You can find [RPGCharacterCreator](https://github.com/Sainterman/RPGCharacterCreator), feel free to fork and upgrade as you see fit, made to help myself organize some character sheets and It might be useful for you, no need to run it on cloud you can hookup your postgres db and serve it however you want, but it will store your RPG characters, currently only template for MAge the Ascension characters.
